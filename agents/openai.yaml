@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 353"
+  short_description: "点描光锥：上半保留原照，下半是深暗底上一束由细密亮点聚成的巨大三角光锥，主体压成光锥脚下一小块刻线剪影，配一行图鉴图注"
+  default_prompt: "Use $xxd-panel-353 to transform my photograph following the complete canonical source brief."
