@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 353｜Stippled Light Cone: keeps the photo and turns its subject into a full-page plate from an old scientific atlas — a near-ink dark ground pressed from the photo's darkest colour, a huge triangular cone of light built only from countless fine stippled dots rising point-up from a low horizon and fading as it climbs, the subject shrunk to a small dark silhouette of parallel wood-engraving lines at the cone's foot, just one dark and one cream light colour, and a figure number plus one-line caption in small classical serif centred along the bottom; any Chinese is Simplified. Scenes are reduced to one element. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-353 or asks for a stippled wood-engraving plate, a light-cone night print or a scientific atlas illustration from a photo.",
+  "short_description": "点描光锥：把照片主体压成光锥脚下的刻线小剪影，头顶升起一束点描的巨大三角光",
+  "zh-CN": {
+    "name": "点描光锥",
+    "tagline": "把照片主体压成地上的刻线小剪影，头顶升起一束巨大的点描光锥。",
+    "look": "画面像科学图鉴里一整页木口版画。照片最深的颜色被压到接近墨色铺满底，一束巨大的三角形光锥从低矮的地平线正中升起，尖顶朝上，全由无数细密的亮点聚成，下宽上窄、越往上越淡，边缘柔和散开。主体缩成光锥脚下一侧一小块深色剪影，用一道道平行细刻线排出，只在朝光的一侧留几道亮线，暗底里还横着几道长长的细刻线。全画只有一种暗色和一种略带奶色的浅色，尖顶旁另有一个很小的亮点。底边居中一行细小的古典衬线字：一个图号加一行图注，像图鉴作者平静记下的一件奇事。",
+    "traits": [
+      "近墨深暗底",
+      "细密亮点聚成的三角光锥",
+      "平行刻线小剪影",
+      "低矮刻线地面",
+      "一暗一亮双色",
+      "古典衬线图号加图注"
+    ],
+    "good": [
+      "旷野或水边的安静单体：一棵树、湖上的一条船、雪地里的小屋",
+      "小小的人影或建筑：站在海边的人、夜里的一座灯塔、山顶的小亭",
+      "构图差、背景乱或主体小的照片，会被压低缩小，把最亮的那一点变成整束光"
+    ],
+    "poor": [
+      "需要看清主体细节、表情或色彩的照片，这里主体只是一块小剪影",
+      "想保留完整街景、室内或热闹场面的需求",
+      "想要彩色、照片式写实、柔焦光晕或舞台聚光灯效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Stippled Light Cone",
+    "tagline": "Presses the subject of your photo into a small engraved silhouette beneath a huge stippled cone of light.",
+    "look": "The design reads like a full-page wood engraving in a scientific atlas. The photo's darkest colour is pushed almost to ink and fills the ground, and a huge triangular cone of light rises point-up from the centre of a low horizon, built entirely from countless fine bright dots, wide at the base, narrowing and fading as it climbs, its edges softly scattering. The subject shrinks to a small dark silhouette to one side at the cone's foot, laid in rows of parallel fine engraved lines with a few bright lines only on its lit side, while long thin horizontal lines lie across the dark. There is just one dark colour and one slightly creamy light, with one tiny bright point beside the tip. Centred along the bottom, small classical serif type gives a figure number and a one-line caption, like an atlas author calmly noting something strange.",
+    "traits": [
+      "Near-ink dark ground",
+      "Stippled cone of light",
+      "Small engraved silhouette",
+      "Low engraved horizon",
+      "One dark, one light",
+      "Serif figure number and caption"
+    ],
+    "good": [
+      "A quiet single subject in open land or by water: a tree, a boat on a lake, a cabin in snow",
+      "Small figures or buildings: a person standing by the sea, a lighthouse at night, a little pavilion on a peak",
+      "Photos with weak composition, messy backgrounds or a small subject, which get shrunk low while the brightest point becomes the beam"
+    ],
+    "poor": [
+      "Photos where the subject's detail, expression or colour must show, since it becomes a small silhouette",
+      "Requests to keep a full street, interior or busy scene",
+      "Requests for colour, photographic realism, soft-focus glow or a stage spotlight look"
+    ]
+  },
+  "ja": {
+    "name": "点描の光の円錐",
+    "tagline": "写真の主役を地上の小さな彫線シルエットにし、頭上に巨大な点描の光の円錐を立ちのぼらせます。",
+    "look": "画面は科学図鑑の一ページ大の木口木版のようです。写真でいちばん暗い色を墨に近いところまで沈めて地全体に敷き、低い地平線の中央から巨大な三角形の光の円錐が尖った先を上にして立ちのぼります。円錐は無数の細かな光の点だけでできていて、下が広く上ほど細く淡くなり、縁は柔らかく散っていきます。主役は円錐のふもとの片側で小さな暗いシルエットに縮み、平行な細い彫線を並べて表し、光に向いた側にだけ明るい線を数本残します。暗い地には長く細い彫線が何本か横たわります。色は暗い色一つと少しクリームがかった明るい色一つだけで、先端のそばにごく小さな光点がもう一つあります。下辺中央には小さなクラシックなセリフ体で、図番号と一行の図注。図鑑の著者が奇妙な出来事を淡々と書き留めたような調子です。",
+    "traits": [
+      "墨に近い暗い地",
+      "細かな光点の三角の円錐",
+      "平行彫線の小さなシルエット",
+      "低い彫線の地面",
+      "暗と明の二色",
+      "セリフ体の図番号と図注"
+    ],
+    "good": [
+      "野原や水辺の静かな単体：一本の木、湖の小舟、雪の中の小屋",
+      "小さな人影や建物：海辺に立つ人、夜の灯台、山頂の小さなあずまや",
+      "構図が平凡、背景が散らかっている、主役が小さい写真（低く小さく置き、いちばん明るい一点を光の束にします）"
+    ],
+    "poor": [
+      "主役の細部、表情、色を見せたい写真（小さなシルエットになります）",
+      "通り全体、室内全体、にぎやかな場面を残したい場合",
+      "カラー、写真のような写実、ソフトフォーカスのにじみ、舞台のスポットライト風を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "점묘 빛의 원뿔",
+    "tagline": "사진 속 주인공을 땅 위의 작은 각선 실루엣으로 누르고, 머리 위로 거대한 점묘 빛의 원뿔을 세웁니다.",
+    "look": "화면은 과학 도감 속 한 면 가득한 목구 목판화 같습니다. 사진에서 가장 어두운 색을 먹색에 가깝게 눌러 바탕 전체에 깔고, 낮은 지평선 한가운데서 거대한 삼각형 빛의 원뿔이 꼭짓점을 위로 하고 솟아오릅니다. 원뿔은 셀 수 없이 많은 가는 빛점으로만 이루어져 아래는 넓고 위로 갈수록 좁고 옅어지며, 가장자리는 부드럽게 흩어집니다. 주인공은 원뿔 발치 한쪽의 작은 어두운 실루엣으로 줄어들어 평행한 가는 각선으로 채워지고, 빛을 향한 쪽에만 밝은 선 몇 줄이 남습니다. 어두운 바탕에는 길고 가는 각선 몇 줄이 가로로 누워 있습니다. 색은 어두운 색 하나와 살짝 크림빛이 도는 밝은 색 하나뿐이고, 꼭짓점 옆에 아주 작은 빛점이 하나 더 있습니다. 아래 가장자리 가운데에는 작은 고전 세리프체로 그림 번호와 한 줄 그림 설명이 들어가, 도감 저자가 기이한 일을 담담히 적어 둔 듯합니다.",
+    "traits": [
+      "먹에 가까운 어두운 바탕",
+      "가는 빛점의 삼각 원뿔",
+      "평행 각선의 작은 실루엣",
+      "낮은 각선 지면",
+      "어둠과 밝음 두 색",
+      "세리프 그림 번호와 설명"
+    ],
+    "good": [
+      "들판이나 물가의 고요한 단일 대상: 나무 한 그루, 호수 위 배, 눈 속 오두막",
+      "작은 사람이나 건물: 바닷가에 선 사람, 밤의 등대, 산꼭대기 작은 정자",
+      "구도가 평범하거나 배경이 어수선하거나 주인공이 작은 사진(낮고 작게 두고 가장 밝은 한 점을 빛줄기로 만듭니다)"
+    ],
+    "poor": [
+      "주인공의 세부, 표정, 색이 보여야 하는 사진(작은 실루엣이 됩니다)",
+      "거리 전체, 실내 전체, 북적이는 장면을 살리고 싶은 경우",
+      "컬러, 사진 같은 사실감, 소프트 포커스 번짐, 무대 스포트라이트 느낌을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "مخروط الضوء المنقّط",
+    "tagline": "يضغط العنصر الرئيسي في صورتك إلى ظلّ محفور صغير تحت مخروط ضوء هائل منقّط.",
+    "look": "يبدو التصميم كلوحة كاملة محفورة على الخشب في أطلس علمي. يُدفع أدكن لون في الصورة حتى يقارب الحبر ويملأ الأرضية، ويرتفع من وسط أفق منخفض مخروط ضوء مثلّث هائل رأسه إلى الأعلى، مبني كله من نقاط مضيئة دقيقة لا تُحصى، عريض عند القاعدة يضيق ويخفت كلما صعد، وحوافه تتبدّد بنعومة. يصغر العنصر إلى ظلّ داكن صغير في جانب عند قدم المخروط، مرسوم بصفوف من خطوط حفر رفيعة متوازية، ولا تبقى إلا بضعة خطوط مضيئة على جانبه المواجه للضوء، وتمتد في الظلام بضعة خطوط أفقية طويلة رفيعة. لا يوجد إلا لون داكن واحد ولون فاتح واحد مائل إلى الكريمي، مع نقطة مضيئة صغيرة جداً قرب رأس المخروط. وفي وسط الحافة السفلى رقم لوحة وسطر تعليق واحد بخط كلاسيكي مذيّل صغير، كأن مؤلف الأطلس يدوّن بهدوء أمراً غريباً.",
+    "traits": [
+      "أرضية داكنة تقارب الحبر",
+      "مخروط ضوء من نقاط دقيقة",
+      "ظلّ صغير بخطوط محفورة",
+      "أفق محفور منخفض",
+      "لون داكن ولون فاتح",
+      "رقم لوحة وتعليق بخط مذيّل"
+    ],
+    "good": [
+      "عنصر واحد هادئ في أرض مفتوحة أو قرب الماء: شجرة، قارب على بحيرة، كوخ في الثلج",
+      "أشخاص أو مبانٍ صغيرة: شخص واقف على شاطئ، منارة في الليل، جوسق صغير على قمة",
+      "صور ضعيفة التكوين أو بخلفية فوضوية أو بعنصر صغير، يُصغَّر عنصرها ويُخفض وتصير أشدّ نقطة ضوءاً فيها هي الحزمة"
+    ],
+    "poor": [
+      "صور يجب أن تظهر فيها تفاصيل العنصر أو تعابيره أو ألوانه، إذ يصير ظلاً صغيراً",
+      "طلب الإبقاء على شارع كامل أو غرفة كاملة أو مشهد مزدحم",
+      "طلب ألوان أو واقعية فوتوغرافية أو توهّج ضبابي أو مظهر بقعة ضوء مسرحية"
+    ]
+  }
+}

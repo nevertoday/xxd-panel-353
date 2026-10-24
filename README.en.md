@@ -1,161 +1,270 @@
 <div align="center">
 
-# XXD Panel 353｜点描光锥
+# XXD Panel 353｜Stippled Light Cone
 
-Keep the photograph above. Below is a full-page plate from a scientific atlas: the photo's darkest colour pressed almost to ink, and a huge triangular cone of light, made of countless fine stippled dots, rising point-up from a low horizon and fading as it climbs; the subject shrinks to a small dark wood-engraved silhouette at the cone's foot, with one figure number and caption along the bottom edge.
+**Presses the subject of your photo into a small engraved silhouette beneath a huge stippled cone of light.**
 
-<a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
+<a href="README.md">简体中文</a> · <strong>English</strong> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
 </div>
 
-> Original prompt (five-language entry): [简中](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md).
-
-## 16:9 Left–Right Samples
-
-Twenty Unsplash portrait photographs on twenty themes different from the top–bottom set, each rebuilt as one complete 16:9 left–right canvas. The photograph stays on the left; on the right is a stippled light cone and a small engraved silhouette on a deep ground, exact 50:50. The language again rotates through the five locales. The portrait themes favour upright single things — a standing figure, animals, rock pillars, a palm, a pylon, a pagoda, a water tower — to show how, in a narrower half, the cone rises from the lower centre with its tip stopping under the headroom while the subject sits to one side on the low horizon.
-
 <table>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 353 sample 21 · Figure by the sea"><br><sub>21 · Figure by the sea</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 353 sample 22 · Dog on a hillside"><br><sub>22 · Dog on a hillside</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 353 sample 23 · Cat on the grass"><br><sub>23 · Cat on the grass</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 353 sample 24 · Deer"><br><sub>24 · Deer</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 353 sample 25 · Cranes in snow"><br><sub>25 · Cranes in snow</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 353 sample 26 · Rock pillars"><br><sub>26 · Rock pillars</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 353 sample 27 · Palm tree"><br><sub>27 · Palm tree</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 353 sample 28 · Saguaro"><br><sub>28 · Saguaro</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 353 sample 29 · Pylon"><br><sub>29 · Pylon</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 353 sample 30 · Stone tower"><br><sub>30 · Stone tower</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 353 sample 31 · Rowboat"><br><sub>31 · Rowboat</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 353 sample 32 · Bench by a lake"><br><sub>32 · Bench by a lake</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 353 sample 33 · Bucking rider"><br><sub>33 · Bucking rider</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 353 sample 34 · Hut in a valley"><br><sub>34 · Hut in a valley</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 353 sample 35 · Standing stones"><br><sub>35 · Standing stones</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 353 sample 36 · Pagoda"><br><sub>36 · Pagoda</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 353 sample 37 · Campers"><br><sub>37 · Campers</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 353 sample 38 · Fox"><br><sub>38 · Fox</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 353 sample 39 · Owl"><br><sub>39 · Owl</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 353 sample 40 · Water tower"><br><sub>40 · Water tower</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-01.png" alt="XXD Panel 353 · 01 · Lone tree on a hill"><br><sub>01 · Lone tree on a hill</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-02.png" alt="XXD Panel 353 · 02 · House in a field"><br><sub>02 · House in a field</sub></td>
   </tr>
 </table>
 
-## 3:4 Top–Bottom Samples
+<p align="center"><sub>Top: the original photo. Bottom: the same photo in this style.</sub></p>
 
-Twenty Unsplash landscape photographs with a clear subject, each rebuilt as one complete 3:4 top–bottom canvas. The photograph stays above; below is a stippled light cone and a small engraved silhouette on a deep ground, exact 50:50. The source brief sets no language, so the samples rotate through Simplified Chinese, English, Japanese, Korean and Arabic, and the model draws each caption from something actually visible in the photo. Themes lean on single things in open land, on lakes, snowfields, deserts and night roads — a lone tree, a cabin, a small boat, camels, a lighthouse, an observatory — to show how what stands on the ground is pressed low and small into one engraved silhouette while the brightest point in the photo grows into a whole beam.
+## What it is
 
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-01.png" alt="XXD Panel 353 sample 01 · Lone tree on a hill"><br><sub>01 · Lone tree on a hill</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-02.png" alt="XXD Panel 353 sample 02 · House in a field"><br><sub>02 · House in a field</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-03.png" alt="XXD Panel 353 sample 03 · Boat on a lake"><br><sub>03 · Boat on a lake</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-04.png" alt="XXD Panel 353 sample 04 · Cabins in snow"><br><sub>04 · Cabins in snow</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 353 sample 05 · Camels in the desert"><br><sub>05 · Camels in the desert</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 353 sample 06 · Fawn in a field"><br><sub>06 · Fawn in a field</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 353 sample 07 · Coastal lighthouse"><br><sub>07 · Coastal lighthouse</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 353 sample 08 · Car on an open road"><br><sub>08 · Car on an open road</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 353 sample 09 · Tent at night"><br><sub>09 · Tent at night</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 353 sample 10 · Observatory"><br><sub>10 · Observatory</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 353 sample 11 · Wind turbines over a field"><br><sub>11 · Wind turbines over a field</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 353 sample 12 · Horses grazing"><br><sub>12 · Horses grazing</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-13.png" alt="XXD Panel 353 sample 13 · Country church"><br><sub>13 · Country church</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-14.png" alt="XXD Panel 353 sample 14 · Camper van"><br><sub>14 · Camper van</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-15.png" alt="XXD Panel 353 sample 15 · Truss bridge"><br><sub>15 · Truss bridge</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-16.png" alt="XXD Panel 353 sample 16 · City skyline"><br><sub>16 · City skyline</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-17.png" alt="XXD Panel 353 sample 17 · Sheep by the sea"><br><sub>17 · Sheep by the sea</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-18.png" alt="XXD Panel 353 sample 18 · Steam train"><br><sub>18 · Steam train</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-19.png" alt="XXD Panel 353 sample 19 · Angler by a lake"><br><sub>19 · Angler by a lake</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-20.png" alt="XXD Panel 353 sample 20 · Hay bales"><br><sub>20 · Hay bales</sub></td>
-  </tr>
-</table>
+A Skill for AI agents such as Claude Code and Codex. Give it a photo and it paints a finished PNG following the original Panel 353 prompt.
 
-## Best-fit situations and problems solved
+- **What it looks like:** The design reads like a full-page wood engraving in a scientific atlas. The photo's darkest colour is pushed almost to ink and fills the ground, and a huge triangular cone of light rises point-up from the centre of a low horizon, built entirely from countless fine bright dots, wide at the base, narrowing and fading as it climbs, its edges softly scattering. The subject shrinks to a small dark silhouette to one side at the cone's foot, laid in rows of parallel fine engraved lines with a few bright lines only on its lit side, while long thin horizontal lines lie across the dark. There is just one dark colour and one slightly creamy light, with one tiny bright point beside the tip. Centred along the bottom, small classical serif type gives a figure number and a one-line caption, like an atlas author calmly noting something strange.
+- **Keywords:** Near-ink dark ground · Stippled cone of light · Small engraved silhouette · Low engraved horizon · One dark, one light · Serif figure number and caption
+- **What you can make:** A top–bottom comparison (photo above, design below), a left–right comparison, the design alone, or a wallpaper set for phone, tablet, desktop and watch. Pick several at once, at any ratio or exact pixel size.
+- **What it is not:** Not a filter and not a template: every image is redrawn from your photo, and each photo is its own job.
 
-For photographs with one quiet single subject: a tree in open land, a boat on a lake, a cabin in snow, a person by the sea, a lighthouse at night. It also rescues weak compositions, busy backgrounds or tiny subjects — the lower half deletes the surroundings, shrinks and lowers the subject into one engraved silhouette, and turns the brightest point in the photo into a whole beam, like a plate recording a strange sky event. When the photograph is a scene, only its most representative single object or fragment is kept.
+## Get started in three steps
 
-The key is a deep near-ink ground; a huge triangular cone made only of fine stippled dots, wide below and narrow above, fading upwards, its tip stopping under the headroom; a low engraved strip of ground; a small dark silhouette of parallel cut lines at the cone's foot; a few long horizontal engraved bands in the dark; and one cream line of classical serif figure number and caption centred on the bottom edge. Only two colours, one dark and one light. Avoid a full-scene copy, a filled ground, a solid white triangle or stage spotlight, an enlarged subject filling the frame, a greyish ground, colour, photographic realism, soft-focus glow and messy dots.
-
-## Usage tips
-
-- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
-- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
-- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
-- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
-- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
-- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
-
-## Getting started
-
-Install from GitHub:
+**1. Install.** Works with Claude Code, Codex and other agents that support Skills:
 
 ```bash
 npx skills add https://github.com/nevertoday/xxd-panel-353 --skill xxd-panel-353
 ```
 
-Restart the agent session after installation, then invoke `$xxd-panel-353`. Add `--global --agent codex --yes` when a user-level Codex installation is wanted.
+Then restart your agent session. You can also `git clone` this repository and link the folder to `~/.claude/skills/xxd-panel-353` or `~/.codex/skills/xxd-panel-353`.
 
-Common examples:
+**2. Make sure your agent can generate images.** This Skill has no image model of its own; it uses your agent's image generation, preferably GPT Image 2.
+
+- Codex works as is when its built-in image generation is on.
+- Claude Code and other agents without built-in image generation need an OpenAI-compatible image API. It takes about five minutes: see [Setting up image generation](#setting-up-image-generation).
+
+Not sure? Just try it. If images can't be generated, the Skill stops and tells you before doing any work.
+
+**3. Send a photo and say one sentence:**
+
+> Use xxd-panel-353 to turn this photo into a 3:4 top–bottom poster with an English title.
+
+If your request is complete, it starts right away; anything you left out (layout, ratio, text) it asks about, usually in one or two questions. Results are PNGs in a new folder under `~/Desktop/xxd/xxd-panel-353/`.
+
+## Which photos work best
+
+**Works well**
+
+- A quiet single subject in open land or by water: a tree, a boat on a lake, a cabin in snow
+- Small figures or buildings: a person standing by the sea, a lighthouse at night, a little pavilion on a peak
+- Photos with weak composition, messy backgrounds or a small subject, which get shrunk low while the brightest point becomes the beam
+
+**Not a good fit**
+
+- Photos where the subject's detail, expression or colour must show, since it becomes a small silhouette
+- Requests to keep a full street, interior or busy scene
+- Requests for colour, photographic realism, soft-focus glow or a stage spotlight look
+
+## Samples
+
+Each image below is a finished result this Skill made from one photo. The top–bottom and left–right sets use different photos.
+
+### Top–bottom: photo above, design below
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-01.png" alt="XXD Panel 353 · 01 · Lone tree on a hill"><br><sub>01 · Lone tree on a hill</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-02.png" alt="XXD Panel 353 · 02 · House in a field"><br><sub>02 · House in a field</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-03.png" alt="XXD Panel 353 · 03 · Boat on a lake"><br><sub>03 · Boat on a lake</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-04.png" alt="XXD Panel 353 · 04 · Cabins in snow"><br><sub>04 · Cabins in snow</sub></td>
+  </tr>
+</table>
+
+<details>
+<summary>Show 16 more</summary>
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 353 · 05 · Camels in the desert"><br><sub>05 · Camels in the desert</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 353 · 06 · Fawn in a field"><br><sub>06 · Fawn in a field</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 353 · 07 · Coastal lighthouse"><br><sub>07 · Coastal lighthouse</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 353 · 08 · Car on an open road"><br><sub>08 · Car on an open road</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 353 · 09 · Tent at night"><br><sub>09 · Tent at night</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 353 · 10 · Observatory"><br><sub>10 · Observatory</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 353 · 11 · Wind turbines over a field"><br><sub>11 · Wind turbines over a field</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 353 · 12 · Horses grazing"><br><sub>12 · Horses grazing</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-13.png" alt="XXD Panel 353 · 13 · Country church"><br><sub>13 · Country church</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-14.png" alt="XXD Panel 353 · 14 · Camper van"><br><sub>14 · Camper van</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-15.png" alt="XXD Panel 353 · 15 · Truss bridge"><br><sub>15 · Truss bridge</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-16.png" alt="XXD Panel 353 · 16 · City skyline"><br><sub>16 · City skyline</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-17.png" alt="XXD Panel 353 · 17 · Sheep by the sea"><br><sub>17 · Sheep by the sea</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-18.png" alt="XXD Panel 353 · 18 · Steam train"><br><sub>18 · Steam train</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-19.png" alt="XXD Panel 353 · 19 · Angler by a lake"><br><sub>19 · Angler by a lake</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-20.png" alt="XXD Panel 353 · 20 · Hay bales"><br><sub>20 · Hay bales</sub></td>
+  </tr>
+</table>
+
+</details>
+
+### Left–right: photo left, design right
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 353 · 21 · Figure by the sea"><br><sub>21 · Figure by the sea</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 353 · 22 · Dog on a hillside"><br><sub>22 · Dog on a hillside</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 353 · 23 · Cat on the grass"><br><sub>23 · Cat on the grass</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 353 · 24 · Deer"><br><sub>24 · Deer</sub></td>
+  </tr>
+</table>
+
+<details>
+<summary>Show 16 more</summary>
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 353 · 25 · Cranes in snow"><br><sub>25 · Cranes in snow</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 353 · 26 · Rock pillars"><br><sub>26 · Rock pillars</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 353 · 27 · Palm tree"><br><sub>27 · Palm tree</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 353 · 28 · Saguaro"><br><sub>28 · Saguaro</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 353 · 29 · Pylon"><br><sub>29 · Pylon</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 353 · 30 · Stone tower"><br><sub>30 · Stone tower</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 353 · 31 · Rowboat"><br><sub>31 · Rowboat</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 353 · 32 · Bench by a lake"><br><sub>32 · Bench by a lake</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 353 · 33 · Bucking rider"><br><sub>33 · Bucking rider</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 353 · 34 · Hut in a valley"><br><sub>34 · Hut in a valley</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 353 · 35 · Standing stones"><br><sub>35 · Standing stones</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 353 · 36 · Pagoda"><br><sub>36 · Pagoda</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 353 · 37 · Campers"><br><sub>37 · Campers</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 353 · 38 · Fox"><br><sub>38 · Fox</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 353 · 39 · Owl"><br><sub>39 · Owl</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 353 · 40 · Water tower"><br><sub>40 · Water tower</sub></td>
+  </tr>
+</table>
+
+</details>
+
+## Just say it
+
+No parameters to memorise. Say what you want:
+
+| You want | Say |
+|---|---|
+| Top–bottom comparison | Make a 3:4 top–bottom comparison |
+| Left–right comparison | Make a 16:9 left–right comparison, photo on the left |
+| Design only | Just the design, no photo, 9:16 portrait |
+| A wallpaper set | Make matching wallpapers for phone, tablet, desktop and watch |
+| Several ratios | Make this one at 1:1, 3:4 and 16:9 |
+| Your own text | Use the title “Let the wind pass through” exactly as written |
+| No text | No text at all |
+| Text language | Write the text in Japanese |
+| A whole folder | Turn every photo in this folder into a top–bottom comparison |
+| Same as last time | Use my settings from last time |
+
+Prefer the command line? The flags map one to one:
 
 ```text
 /xxd-panel-353 photo.jpg --mode top-bottom --size 3:4 --text prompt --locale en-US
-/xxd-panel-353 photo.jpg --mode left-right --size 16:9 --text prompt --locale en-US
-/xxd-panel-353 photo.jpg --mode design-only --size 9:16 --text none --prefs off
-/xxd-panel-353 ./photos --mode design-only --size auto,3:4 --text prompt --locale ja-JP
+/xxd-panel-353 photo.jpg --mode design-only --size 9:16 --text none
+/xxd-panel-353 ./photos --mode left-right --size 16:9 --text prompt --locale ja-JP
 ```
 
-See [SKILL.md](SKILL.md) for the full runtime contract and the [English](references/xxd-panel-353-prompt.en.md) or [Chinese](references/xxd-panel-353-prompt.zh-CN.md) runtime adapter.
+All flags are listed under [Parameters](#parameters).
+
+## FAQ
+
+**Does the original photo have to appear?** No. Ask for “design only” or a wallpaper set and the whole canvas is design.
+
+**Who writes the text?** By default the image model writes it from your photo; you only choose the language. Give your own words and they are used exactly; or ask for no text. Anything that looks factual (places, dates, numbers) comes only from you or from what is visible in the photo, never invented.
+
+**What if I don't like the result?** Say “one more”. It redraws from the original photo instead of editing the last result, so every attempt is different.
+
+**Do photos in a batch mix together?** No. Each photo is generated on its own and never borrows another photo's colours, text or layout. Settings are asked once for the whole batch.
+
+**Where do my photos go?** Only to the image model your agent uses. The Skill uploads nothing elsewhere and never prints endpoints or keys.
+
+**How does this relate to other Panels?** XXD Panels are a family of styles, one per number, fully independent; install only the ones you like. To have AI recommend a style for a photo, or compare several at once, use the catalog [xxd-panel-all](https://github.com/nevertoday/xxd-panel-all).
 
 ## Original prompt
 
-The [complete Chinese source](references/original-prompt/zh-CN.md) is preserved verbatim and is the sole creative and aesthetic authority at runtime. This batch provides five-language usage documentation, without four additional long-form translations. Style summaries are for discovery only and never replace the source.
+This style is defined entirely by Xiaoxiaodong's [original prompt](references/original-prompt/zh-CN.md) (in Chinese). The Skill only appends the layout, size and text settings you choose; it never summarises, translates or rewrites the prompt.
 
-## Quick fit check
+Reading translations (for reading only; never sent to the image model): [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
 
-Keep the source identity while redirecting composition; retain the material signature while actively leaving space. Choose exact text, generated copy or no text, with single-image or recursive directory processing and the four delivery modes below.
+## Setting up image generation
 
-## Four output modes
+You need an OpenAI-compatible API that serves `gpt-image-2` (or a compatible model) and its API key. This creates a separate config and leaves your Codex settings alone:
 
-- `top-bottom`: exactly two full-width regions, reality above and design below, 50% each.
-- `left-right`: exactly two full-height regions, reality left and design right, 50% each; it never rotates into a top-bottom layout.
-- `design-only`: the full canvas contains only Panel 353's designed translation; the photograph remains a non-visible reference.
-- `wallpaper-pack`: creates complete artworks for phone, iPad, desktop, and watch, either `linked` as a coherent family or `independent` as four separate works.
+```bash
+mkdir -p ~/.xxd-imagegen
+cat > ~/.xxd-imagegen/config.toml <<'EOF'
+model_provider = "image"
 
-Modes and sizes may be combined. Supported sizes include `1:1`, `3:4`, `4:3`, `4:5`, `5:4`, `2:3`, `3:2`, `9:16`, `16:9`, `21:9`, `5:7`, `7:5`, and exact pixels. Text can be prompt-generated, user-exact, or absent. A directory is inventoried recursively and every source is isolated while sharing one set of delivery settings; final PNG files remain flat in one fresh task directory.
+[model_providers.image]
+base_url = "https://api.openai.com/v1"   # or your compatible endpoint
+env_key = "XXD_IMAGE_API_KEY"
+EOF
+
+# add to ~/.zshrc or ~/.bashrc so your agent can read them
+echo 'export XXD_IMAGEGEN_CODEX_DIR=~/.xxd-imagegen' >> ~/.zshrc
+echo 'export XXD_IMAGE_API_KEY=your-key' >> ~/.zshrc
+```
+
+Reopen your terminal and agent, then check once from this Skill's folder:
+
+```bash
+python3 scripts/configured_imagegen.py probe
+```
+
+`"ok":true` means it works. The check only reports readiness; it never prints the endpoint or key. If your Codex already generates images through a compatible API, skip this step.
+
+## Parameters
+
+| Flag | Values |
+|---|---|
+| `--mode` | `top-bottom` · `left-right` · `design-only` · `wallpaper-pack` (phone, tablet, desktop, watch); combine freely |
+| `--size` | `auto` recommended · `source` match the photo · `1:1` `3:4` `4:3` `4:5` `5:4` `2:3` `3:2` `9:16` `16:9` `21:9` `5:7` `7:5` · exact pixels such as `2160x3840`; combine freely |
+| `--text` | `prompt` written from the photo · `exact` your words (with `--copy "…"`) · `none` no text |
+| `--locale` | text language, e.g. `zh-CN` `en-US` `ja-JP` `ko-KR` `ar` |
+| `--wallpaper` | `linked` a matching set · `independent` four separate designs |
+| `--wallpaper-size` | device pixels, e.g. `phone=1440x3200,desktop=3840x2160` |
+| `--out` | another output root (default `~/Desktop/xxd/xxd-panel-353/`) |
+| `--prefs` | `last` reuse · `edit` start from last time · `new` choose again · `off` don't remember this time · `clear` forget |
+
+- With every value given, nothing is asked; otherwise only the missing values are. Pass a folder instead of `photo.jpg` to batch.
+- Combinations are generated one by one: 2 modes × 3 sizes = 6 images, each composed for its own canvas rather than cropped.
+- Comparisons are exactly 50:50. Usually the model paints only the design half and a script places the untouched photo beside it, so the split is centred and the photo is unchanged.
+- Files are named like `source-001-street-top-bottom-3x4-1152x1536.png`, all in one flat task folder.
+- Only layout, size, text mode and language are remembered, never photos, copy or keys.
 
 <!-- xxd-readme-ads:start -->
 ## About XXD
